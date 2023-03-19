@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gian</h1>
+<h1 align="center">Hi, I'm Gian</h1>
 <h3 align="center">First, no, Node.js isn't single thread 😆.</h3>
 
 - 🔭 I’m currently working on **Blackhall Group**
