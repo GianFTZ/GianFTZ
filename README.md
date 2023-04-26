@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gian</h1>
 <h3 align="center">First, no, Node.js isn't single thread 😆.</h3>
 
-- 🔭 I’m currently working on **Blackhall Group**
+- 🔭 I’m currently working on **Vilesoft**
 
 - 🌱 I’m currently learning **Memory management in Node.js**
 
