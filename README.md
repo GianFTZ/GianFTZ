@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vilesoft**
 
-- 🌱 I’m currently learning **Memory management in Node.js**
+- 🌱 I’m currently learning **Multi-threads and Streams in Node.js**
 
 - 💬 Ask me about **Node.js, Golang**
 
